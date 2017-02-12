@@ -8,7 +8,7 @@
     "type": "git",
     "url": "git+https://github.com/shlomiassaf/ng-router-loader.git"
   },
-  "main": "index.js",
+  "main": "dist/index.js",
   "typings": "index.d.ts",
   "keywords": [
     "webpack",
